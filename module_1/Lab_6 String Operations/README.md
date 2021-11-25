@@ -9,7 +9,7 @@ In this lab, we will learn how to manipulate strings. We will combine strings an
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned about string manipulation.
+Open the `maincheckpoint.ipynb` file in the `Lab_6 String Operations` folder. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned about string manipulation.
 
 ## Deliverables
 
