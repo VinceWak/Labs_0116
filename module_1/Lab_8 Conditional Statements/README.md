@@ -27,3 +27,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 - [If Statements | Python Documentation](https://docs.python.org/3.10/reference/compound_stmts.html#the-if-statement)
 - [Python if Statement](https://www.w3schools.com/python/gloss_python_if_statement.asp)
+- [Python Conditional Statement] (https://realpython.com/python-conditional-statements/)
+- 
