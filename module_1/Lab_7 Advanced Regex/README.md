@@ -10,7 +10,7 @@ In this lab, you will practice putting together your own regular expressions fro
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
+Open the `main.ipynb` file in the `Lab_7 Advanced Regex` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
 
 ## Deliverables
 
