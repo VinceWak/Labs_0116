@@ -39,9 +39,9 @@ Below is a summary of the steps you will follow in this lab:
 ## Task 2
 ### Define the flowchart for the business case.
 #### 
-Supply Chain for Shipping
-Financier - provides loans for the trades
-Buyer - should pay for the goods that should be delivered.
+Supply Chain for Shipping 
+* Financier - provides loans for the trades
+* Buyer - should pay for the goods that should be delivered.
 
 When the Financier has been approved by all counterparties, a collaboration space has been created so now the Financiers can bid on the trade, proposing the conditions for the Financial Agreement. 
 The Finnacier can propose the conditions (such as the interest rate and a payback date) that will afterward be analyzed by the Buyer. In case the buyer does not agree with the financial terms, 
