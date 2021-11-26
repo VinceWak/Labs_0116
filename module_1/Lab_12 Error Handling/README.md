@@ -7,7 +7,7 @@ In this lab we will learn how to handle errors in Python. We will handle the err
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to handle errors correctly or generate errors yourself.
+Open the `main.ipynb` file in the `Lab_12 Error Handling` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to handle errors correctly or generate errors yourself.
 
 ## Deliverables
 
