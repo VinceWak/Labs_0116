@@ -10,7 +10,7 @@ Being able to use both, git and GitHub, is an important skill every software/dat
 
 1. First of all, install git if you don't have it yet, and create a GitHub account. (_In case you haven't made it to the bonus section in the Prework, refer to the lesson "Install Git and Create GitHub Account", that you will find there. Follow the guidelines given there. Additionally, you can use these resources: [Install git](https://git-scm.com/downloads), [Version control with git](http://swcarpentry.github.io/git-novice/)_)
 
-2. Create a new repository in GitHub. Name it `Iron`+ your name. Example: if your name is _Alvaro_, you will name the repo `IronAlvaro`.
+2. Create a new repository in GitHub. Name it `Iron`+ your name. Example: if your name is _Iron_, you will name the repo `IronHack`.
 3. Clone that repo to your computer.
 4. Create a file in that folder. Name it `about.txt` and add a fun fact about yourself. (_You can use the command line: `touch nameOfTheFile.txt`_).
 5. Add the file you just created to git.
