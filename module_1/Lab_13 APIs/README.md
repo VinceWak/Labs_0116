@@ -59,27 +59,21 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 ## Goals
 
 ### Challenge 1: Fork Languages
-
-You will find out how many programming languages are used among all the forks created from the main lab repo of your bootcamp. Assuming the main lab repo is `ironhack-datalabs/madrid-oct-2018`, you will:
-
-1. Obtain the full list of forks created from the main lab repo via Github API.
-
-1. Loop the JSON response to find out the `language` attribute of each fork. Use an array to store the `language` attributes of each fork.
-    * *Hint: Each language should appear only once in your array.*
-
-1. Print the language array. It should be something like:
-
-	```["Python", "Jupyter Notebook", "HTML"]```
-
-Again, the documentation of Github API is [here](https://developer.github.com/v3/).
+1. Go to the link https://xkcd.com
+2. check the headers
+3. check the  headers "Expires" value
+4. Provide all HTML codes
+5. Choose the random picture from the website
+6. Get it via API
+7. Save it to your computer
 
 ### Challenge 2: Count Commits
 
-Count how many commits were made in the past week.
-
-1. Obtain all the commits made in the past week via API, which is a JSON array that contains multiple commit objects.
-
-1. Count how many commit objects are contained in the array.
+1. Go to the https://httpbin.org/get. it is a simple HTTP libraries use for testing
+2. View url
+3. Add parameters to the request 'things':2,'total':25
+4. Add username and password as parameters
+5. Export username and password as dictionary
 
 ### Challenge 3: Hidden Cold Joke
 
