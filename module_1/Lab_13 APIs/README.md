@@ -58,7 +58,7 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 
 ## Goals
 
-### Challenge 1: Fork Languages
+### Challenge 1: Get a Picture
 1. Go to the link https://xkcd.com
 2. check the headers
 3. check the  headers "Expires" value
@@ -67,7 +67,7 @@ Then you can open `output.json` with your favorite text editor to have a deep lo
 6. Get it via API
 7. Save it to your computer
 
-### Challenge 2: Count Commits
+### Challenge 2: Get a password
 
 1. Go to the https://httpbin.org/get. it is a simple HTTP libraries use for testing
 2. View url
