@@ -1,7 +1,12 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 # Lab | My first queries
 
-Please, connect to the Data Bootcamp Google Database using the credentials provided in class. Choose the database called *appleStore*. Use the *data* table to query the data about Apple Store Apps and answer the following questions: 
+Please, download the file applestore.csv.
+Install MySQL/Postgresql on your computer.
+Create a database
+Upload the file as a new table of your database
+
+Use the *data* table to query the data about Apple Store Apps and answer the following questions: 
 
 **1. What are the different genres?**
 
