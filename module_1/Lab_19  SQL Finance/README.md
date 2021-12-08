@@ -14,6 +14,7 @@
 - `SUM`
 - `LIMIT`
 
+The Sql script is here: https://drive.google.com/file/d/1tT1OTdIgkI5tkeeXIsnZwMC5SxI1FE9m/view
 Please submit your solutions in a text file `solutions.sql`.
 
 #### 1. From the `order_items` table, find the price of the highest priced order and lowest price order.
