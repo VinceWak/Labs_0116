@@ -28,7 +28,7 @@ The presentation time limit is **5 minutes**! You will have **3 minutes** to pre
 
 The slides of your presentation must include the content listed below and a demo of your game:
 
-* Title of the project + Student name  
+* Title of the project + Team names
 * Description of your Project  
 * Challenges  
 * Process  
