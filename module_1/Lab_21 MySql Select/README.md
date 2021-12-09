@@ -17,21 +17,13 @@ In this challenge you will write a MySQL `SELECT` query that joins various table
 * `TITLE` - name of the published title
 * `PUBLISHER` - name of the publisher where the title was published
 
-Your output will look something like below:
-
-![Challenge 1 output](./images/challenge-1.png)
-
-*Note: the screenshot above is not the complete output.*
 
 If your query is correct, the total rows in your output should be the same as the total number of records in Table `titleauthor`.
 
 ## Challenge 2 - Who Have Published How Many At Where?
 
-Elevating from your solution in Challenge 1, query how many titles each author has published at each publisher. Your output should look something like below:
+Elevating from your solution in Challenge 1, query how many titles each author has published at each publisher. 
 
-![Challenge 2 output](./images/challenge-2.png)
-
-*Note: the screenshot above is not the complete output.*
 
 To check if your output is correct, sum up the `TITLE COUNT` column. The sum number should be the same as the total number of records in Table `titleauthor`.
 
