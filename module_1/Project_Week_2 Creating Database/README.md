@@ -27,8 +27,9 @@ Subjects:
 - business, 
 - education, 
 - science.
+
 You can work using the following approach:
-1. Disscuss the subject and check the available datasources, 
+1. Disscuss the subject and check the available datasources
 2. Make the project planning in Jira (creating a new project for your group)
 3. Create ER Model
 4. Get the data
