@@ -15,12 +15,11 @@ Keep in mind the general guidelines above when you conduct data analysis in this
 
 ## Getting Started
 
-Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
+Let's do `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` for this lab. Take the exercises following the step-by-step instructions.
 
 ## Deliverables
 
-* `main.ipynb` is a **mandatory challenge** that you must submit. 
-* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb` are optional challenges that will help you acquire the basics of dataframe calculation and transformation. 
+* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb`
 
 ## Submission
 
