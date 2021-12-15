@@ -16,50 +16,13 @@ to develop your analytical skills
 Part 1: Python
 Create the dataframe that reflects the following table:
 
-TransactionID
-ClientID
-Profession
-Bank_dep
-Risk
-Number of credits
-Revenue
-1
-231
-Self-employed
-009
+TransactionID | ClientID | Profession | Bank_dep | Risk | Number of credits | Revenue 
+1| 231 | Self-employed | 009 | High | 2 | 30200
+2| 765 | students | 005 | high | 3 |12700
+3| 453 | Horeca | 007 | medium |5 |89400
+4| 231 | self-employed | 009 | high | 2 | 30200
+5| 892 | finance | 003 | low | 3 | 740000
 
-
-High
-2
-30200
-2
-765
-Student
-005
-High
-3
-12700
-3
-453
-HoReCa
-007
-Medium
-5
-89400
-4
-231
-Self-employed
-009
-High
-2
-30200
-5
-892
-Finance
-003
-Low
-3
-74000
 
 Create a table in the readme file that consists of the columns: Method, Library, Code, Result
 Encode the categorical data using the following methods using different Python libraries:
