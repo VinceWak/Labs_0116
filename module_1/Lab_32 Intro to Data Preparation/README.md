@@ -9,8 +9,7 @@ This lab you will work with real data set for data preparation into pandas.
 
 ## Getting Started
 
-This lab will be a little bit different from others and has two main goals:
-to learn the data encoding methods, and
+This lab you will learn the data preparation techniques methods, and
 to develop your analytical skills 
 
 ## Tasks
