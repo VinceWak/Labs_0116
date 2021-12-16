@@ -24,7 +24,7 @@ Here is the dataset: https://docs.google.com/spreadsheets/d/1CYSDJooG0_58AzbYNRw
 
 - Code in Python
 - Readme file with your plan, approaches and summary
-- Prepared dataset in cscv format
+- Prepared dataset in csv format
 
 ## Submission
 
