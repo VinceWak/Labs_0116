@@ -5,11 +5,11 @@
 
 ## Introduction
 
-This lab you will work with real data set for data preparation into pandas.
+In this lab you will work with real data set for data preparation into pandas.
 
 ## Getting Started
 
-This lab you will learn the data preparation techniques methods, and
+In this lab you will learn the data preparation techniques methods, and
 to develop your analytical skills 
 
 ## Tasks
