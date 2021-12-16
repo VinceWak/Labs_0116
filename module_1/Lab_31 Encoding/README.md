@@ -31,28 +31,28 @@ TransactionID | ClientID | Profession | Bank_dep | Risk | Number of credits | Re
 
 Create a table in the readme file that consists of the columns: Method, Library, Code, Result
 Encode the categorical data using the following methods using different Python libraries:
-Dummy Encoder
-Label Encoder
-Backward Difference Coding
-BaseN
-Binary
-CatBoost Encoder
-Count Encoder
-Generalized Linear Mixed Model Encoder
-Hashing
-Helmert Coding
-James-Stein Encoder
-Leave One Out
-M-estimate
-One Hot
-Ordinal
-Polynomial Coding
-Sum Coding
-Target Encoder
-Weight of Evidence
-Wrappers
-Quantile Encoder
-Summary Encoder
+- Dummy Encoder
+- Label Encoder
+- Backward Difference Coding
+- BaseN
+- Binary
+- CatBoost Encoder
+- Count Encoder
+- Generalized Linear Mixed Model Encoder
+- Hashing
+- Helmert Coding
+- James-Stein Encoder
+- Leave One Out
+- M-estimate
+- One Hot
+- Ordinal
+- Polynomial Coding
+- Sum Coding
+- Target Encoder
+- Weight of Evidence
+- Wrappers
+- Quantile Encoder
+- Summary Encoder
 
 
 Add to the readme file the results for each method.
