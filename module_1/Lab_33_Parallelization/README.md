@@ -21,5 +21,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 # Resources
 
 Multiprocessing Library Documentation
+
 Python Parallel Computing (in 60 Seconds or less)
+
 Python Multiprocessing: Pool vs Process – Comparative Analysis
