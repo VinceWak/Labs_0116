@@ -1,1 +1,25 @@
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+# Lab | Parallelization
+
+# Introduction
+
+In the parallelization lesson, we saw two examples of how we could implement parallelization using the multiprocessing library to speed up the tasks that we need to perform.
+
+This lab will combine parallelization with some of the other topics you have learned in the Intermediate Python module of this program (list comprehensions, requests library, functional programming, web scraping, etc.). You will write code that extracts a list of links from a web page, requests each URL, and then indexes the page referenced by each link - both sequentially and in parallel.
+
+# Getting Started
+
+Open the main.ipynb file in the your-code directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
+
+# Deliverables
+
+main.ipynb with your responses to each of the exercises.
+Submission
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+
+# Resources
+
+Multiprocessing Library Documentation
+Python Parallel Computing (in 60 Seconds or less)
+Python Multiprocessing: Pool vs Process – Comparative Analysis
