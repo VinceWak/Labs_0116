@@ -1,15 +1,40 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Statistics Foundations
-In this lab we are going to put into practice what we learned about the foundations of statistics. You won't need to use Python, just your brain and a little bit of *Markdown*. 
+In this lab we are going to put into practice what we learned about the foundations of statistics. You won't need to use Python, just your brain and a little bit of *Markdown*. Hovewer, you will need SQL for the Part 3.
 
 ## Your task
 Today you'll need to complete the challenges described below.
 
 ## Deliverables
 You need to submit a markdown file with the solution to the following challenges. You can create a new *.md* file or directly edit the *README.md* to include your solutions.
+This file should also include the SQL script for the Part 3.
 
 ## Challenges
+## Part 1
+### Challenge 1
+Find a and b, if median=42, mean=50
+20,34, 34,  12, 56, 110, 49, a, b.
+
+### Challenge 2
+A car hit an average speed of v1 = 60 kmph in the first half of the journey, and hit an average speed of v2 = 110 kmph in the second half of the journey. Determine the average speed of the car.
+
+### Challenge 3
+The lifetimes of 400 light-bulbs were found to the nearest hour. The results were recorded as
+follows.
+Lifetime (hours) 0–199 200–399 400–599 600–799 800–999 1000–1199 1200–1999
+Frequency         143     97      64      51      14      14        17
+Construct a histogram and cumulative frequency polygon for this dataset. Estimate the percentage
+of bulbs with lifetime less than 480 hours.
+
+### Challenge 4
+The time between arrival of 60 patients at an intensive care unit were recorded to the nearest hour.
+The data are shown below.
+Time (hours) 0–19 20–39 40–59 60–79 80–99 100–119 120–139 140–159 160–179
+Frequency     16    13    17    4     4      3       1      1       1
+Determine the median, mean and standard deviation for this dataset.
+
+## Part 2
 ### Challenge 1
 One player rolls two dices. Describe the measurable space and the random variable for:
 * A. The values that the player obtains.
@@ -74,3 +99,26 @@ Describe the measurable space and the random variable for:
 * B. The number of white balls if every time we take a ball we put it back again into the box.
 * C. The number of black balls if every time we take a ball we keep it.
 * D. The number of black balls if every time we take a ball we put it back into the box.
+
+## Part 3
+### Challenge 1
++------------+-------+
+| student_id | score |
++------------+-------+
+|          1 |    91 |
+|          2 |    72 |
+|          3 |    98 |
+|          4 |    62 |
+|          5 |    62 |
+|          6 |    95 |
+|          7 |    83 |
+|          8 |    86 |
+|          9 |    56 |
+|         10 |    97 |
+|         11 |    58 |
+|         12 |    71 |
+|         13 |    87 |
+|         14 |    83 |
+|         15 |    98 |
++------------+-------+
+Please find MEAN, SUM, STANDARD DEVIATION, VARIANCE, MIN and MAX.
