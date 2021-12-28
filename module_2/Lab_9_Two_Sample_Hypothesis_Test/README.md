@@ -22,4 +22,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [The Chi-Squared Test](https://en.wikipedia.org/wiki/Chi-squared_test)
 
-[The `chi2_contingency` function in SciPy](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.chi2_contingency.html)
+[The `chi2_contingency` function in SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html)
