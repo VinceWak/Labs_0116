@@ -4,13 +4,13 @@
 
 ## Introduction
 
-In this lab you will practice how to tell stories using data visualization. However, you will not practice storytelling alone. Instead, you will be exposed to the complete workflow of: 
+In this lab you will practice how to tell stories using data visualization. However, you will not practice just storytelling. Instead, you will be exposed to the complete workflow of: 
 
 1. Understanding the dataset
-1. [optional] Adjusting skewed normal distribution
-1. Exploring the fields that may be interesting based on your common sense
-1. [optional] Exploring the field correlations using heatmap
-1. Summarizing and presenting your stories with data visualization
+2. Adjusting skewed normal distribution
+3. Exploring the fields that may be interesting based on your common sense
+4. Exploring the field correlations using heatmap
+5. Summarizing and presenting your stories with data visualization
 
 ## Getting Started
 
@@ -32,4 +32,3 @@ Upon completion, add your version of `main.ipynb` to git. Then commit git and pu
 
 [Find out the percentage of missing values in each column in the given dataset](https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset)
 
-[Histograms and Inverting Skewed Data](https://trainingdatascience.com/workshops/histograms-and-skewed-data/)
