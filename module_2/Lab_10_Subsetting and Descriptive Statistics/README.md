@@ -10,11 +10,10 @@ In this lab, you will use Pandas library to extract insights from your data by d
 
 ## Getting Started
 
-Open the `main.ipynb` file in `your-code` directory. There are 3 challenges and in each challenge you will work with 3 different datasets. All the datasets are in the `data` folder. Please keep in mind that you might also need to use some of the functions you saw in previous lessons. Remember there is a common thread! 
+Open the `main.ipynb` file in `your-code` directory. There are 3 challenges and in each challenge you will work with 3 different datasets. 
 
 ## Deliverables
 
-You have here three exercises regarding three different datasets. The questions are similar so it is mandatory `to deliver just one of the exercises`. If you want to go further feel free!
 - `main.ipynb` with your responses.
 
 ## Submission
