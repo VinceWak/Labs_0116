@@ -5,7 +5,7 @@ This lab will guide you to a better understanding of basic descriptive statistic
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. Read each instruction carefully and provide your answer beneath it.
+Open the `main.ipynb` file. There are a bunch of questions to be solved. Read each instruction carefully and provide your answer beneath it.
 
 Remember that **some of the questions are not about coding**. **You will need to provide some analysis reasoning**.
 
