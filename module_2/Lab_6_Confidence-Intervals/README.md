@@ -9,7 +9,7 @@ In this lab you will test your knowledge on confidence intervals and you will wo
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Read the challenges and add your code and comments. 
+Open the `main.ipynb` file. Read the challenges and add your code and comments. 
 
 You can either code your solutions using python or add your mathematical calculations using LaTeX. 
 
