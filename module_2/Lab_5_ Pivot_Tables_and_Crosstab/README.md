@@ -3,8 +3,8 @@
 # Lab | Pivot Table and Correlations
 
 ## Introduction
-You may already be familiar with the concept of pivot tables from Excel to quickly slice, filter, and group data in an efficient way.  
-In the first part of this lab, you will use Pandas pivot table to extract insights from your data. In the second part of this lab you will learn to describe the strengh and direction of the relationship between two variables using correlatons. Part 3 is dedicated to practicing crosstabs in pandas.
+You are already familiar with the concept of pivot tables from Excel to quickly slice, filter, and group data in an efficient way.  
+In the first part of this lab, you will use Pandas pivot table to extract insights from your data. In the second part of this lab you will learn to describe the strengh and direction of the relationship between two variables using correlatons. And the last part is dedicated to practicing crosstabs in pandas.
 
 ## Getting Started
 1. Open the `pivots.ipynb` file. There are 3 exercises and in each exercise you will work with 3 different datasets. Please keep in mind that you might also need to use some of the functions you saw in the previous lessons.
