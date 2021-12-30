@@ -13,7 +13,7 @@ As a data anaylist, you might need to use probability distribution for several r
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Read the instructions and complete all the steps. 
+Open the `main.ipynb` file. Read the instructions and complete all the steps. 
 
 ## Deliverables
 
@@ -26,8 +26,6 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 ## Resources
 
 [Scipy Module Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
-
-[Probability distribution cheat sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 [Poisson Distribution: Predict the score in soccer betting](https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-poisson-distribution/MD62MLXUMKMXZ6A8)
 
