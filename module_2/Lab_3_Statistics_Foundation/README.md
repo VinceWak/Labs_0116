@@ -100,15 +100,16 @@ Describe the measurable space and the random variable for:
 * C. The number of black balls if every time we take a ball we keep it.
 * D. The number of black balls if every time we take a ball we put it back into the box.
 
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
+
 ## Part 3
 ### Challenge 1
 +------------+-------+
-
-| student_id | score |
-
-+------------+-------+
-
-|          1 |    91 |
+| #student_id | #score |
+| :---------: | :----: |
+| 1 | 91 |
 
 |          2 |    72 |
 
