@@ -17,6 +17,7 @@ The datasets 'orders.csv' is here: https://docs.google.com/spreadsheets/d/1nkTmF
 # Tasks
 
 Complete the following set of exercises to solidify your knowledge of Bayesian probability
+
 import pandas as pd
 
 import numpy as np
