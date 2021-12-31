@@ -37,7 +37,7 @@ Challenge 2
 6.	Are the variables significant? Why?
 7.	What will be the value of the “Current price” if:
 
-|#on road old	|# on road now	|#years	|#km	|#rating	|#condition	|#top speed
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|20000	|54300	|5	|23459|	2|	3|	150
+| #on road old	| #on road now | #years	| #km	| #rating	| #condition	| #top speed
+|:-------------:|:------------:|:------:|:---:|:-------:|:-----------:|:---------:|
+| 20000	| 54300	| 5	|  23459 |	2 |	3 |	150
 
