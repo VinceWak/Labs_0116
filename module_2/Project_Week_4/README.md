@@ -1,29 +1,32 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Inferential Statistics Review
+# Mini-Project | Module 2 Cumulative Lab 1
 
 ## Introduction
-
-The objective of this lab is to review the concepts of Inferential Statistics that you learned during this week. We will review them by using a dataset containing data from WNBA players and imagining that you want to contribute to heated family discussions over various topic related to basketball.
-
-The question that we will try to resolve through statistics are the following:
-- Your grandmother says that your sister couldn’t play in a professional basketball league (not only the WNBA, but ANY professional basketball league) because she’s too skinny and lacks muscle.
-- Your sister says that most female professional players miss their free throws.
-- Your brother-in-law heard on the TV that the average assists among NBA (male) and WNBA (female) players is 52 for the 2016-2017 season. He is convinced this average would be higher if we only considered the players from the WNBA.
+The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful.
 
 ## Getting Started
 
-This lab has three parts. 
-Start with `1.-Data-Cleaning.ipynb`, then `2.-Exploratory-Data-Analysis.ipynb` and finally `3.-Inferential-Analysis.ipynb`.
+This lab consists of two parts: Data cleaning & Exploratory data analysis. 
+You should begin with '1.-Data Cleaning.ipynb', and then move on to '2.-EDA.ipynb' as you will want to use the clean dataset you build in part 1 to complete part 2.
+
+## Expectations
+
+   1. Write clean, well-commented code
+   
+   2. Fully explain your responses where necessary
+   
+   3. Refer to the lecture notes if you have questions
+   
+   4. Don't be afraid to ask your TAs for help!
+   
 
 ## Deliverables
 
-* The 3 notebooks with your code and comments.
+* '1.-Data Cleaning.ipynb' with your responses
+* '2.-EDA.ipynb' with your responses
 
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 
-## Resources
-
-[WNBA Player Stats 2017](https://www.kaggle.com/jinxbe/wnba-player-stats-2017)
