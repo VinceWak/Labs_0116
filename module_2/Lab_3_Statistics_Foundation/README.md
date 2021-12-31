@@ -103,8 +103,11 @@ Describe the measurable space and the random variable for:
 ## Part 3
 ### Challenge 1
 +------------+-------+
+
 | student_id | score |
+
 +------------+-------+
+
 |          1 |    91 |
 |          2 |    72 |
 |          3 |    98 |
