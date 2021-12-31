@@ -9,7 +9,7 @@ In this lab you will tackle some basic probability challenges. Write your soluti
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and comments.
+Open the `main.ipynb` file. Follow the instructions and add your code and comments.
 
 ## Deliverables
 
