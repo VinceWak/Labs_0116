@@ -11,6 +11,7 @@ In this lab, you will use Pandas library to extract insights from your data by d
 ## Getting Started
 
 Open the `main.ipynb` file. There are 3 challenges and in each challenge you will work with 3 different datasets. 
+The datasets 'orders' is here: https://docs.google.com/spreadsheets/d/1nkTmFoyjosMCxjbSivPlaaTinZFC1QscwhKM9-SE_lE/edit#gid=938738177
 
 ## Deliverables
 
