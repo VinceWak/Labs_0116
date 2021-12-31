@@ -2,4 +2,18 @@
 
 # Lab | Goodness of Fit and Independence Tests
 
-Go through the main.ipynb and complete the questions.
+## Introduction
+
+In this lab you will tackle some challenges for better understanding of goodness of fit. 
+
+## Getting Started
+
+Open the `main.ipynb` file. Follow the instructions and add your code and comments.
+
+## Deliverables
+
+- `main.ipynb` with your responses.
+
+## Submission
+
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
