@@ -1,12 +1,12 @@
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Mini-Project | Module 2 Cumulative Lab 1
+# Mini-Project | Module 2 (Individual part)
 
 
 ## Introduction
 
-The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
+The goal of this project (part 1) is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
 
 
 ## Getting Started
@@ -19,7 +19,6 @@ This lab consists of two parts: Data cleaning & Exploratory data analysis. You s
 - Write clean, well-commented code
 - Fully explain your responses where necessary
 - Refer to the lecture notes if you have questions
-- Don't be afraid to ask your TAs for help!
 
 
 ## Deliverables
