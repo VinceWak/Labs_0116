@@ -1,5 +1,5 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
-# Lab | First dashboard with streamlit
+# Lab | First dashboard with Streamlit
 
 
 ## Introduction
@@ -106,3 +106,5 @@ Both dropdowns will have a list of measurements of cancer tumor type. We can try
 8. Add the comments to all your code
 
 9. If you have issues, the creation of this dashboard is described here.
+
+https://coderzcolumn.com/tutorials/data-science/basic-dashboard-using-streamlit-and-matplotlib
