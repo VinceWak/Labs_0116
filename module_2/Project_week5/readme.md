@@ -15,7 +15,9 @@
 
 ## Introduction
 
-This project aims to recap SQL, EDA and to learn how to create dashboards and, actually, applications, suitable at least for piloting new ideas or products.
+This project aims to recap EDA and to learn how to create dashboards and, actually, applications, suitable at least for piloting new ideas or products.
+Your data is here: https://drive.google.com/drive/u/4/folders/1Dwaa32bNiNe0f67o27bJXw-08nh2HsiN
+The placeholder for your Kanban board is indicated at the wall by number of your group
 
 
 ## Project Goal
@@ -83,6 +85,8 @@ The slides of your presentation must include the content listed below:
 - **Commit early, commit often**
 
 
-
+## Useful links
+https://towardsdatascience.com/deploying-a-basic-streamlit-app-to-heroku-be25a527fcb3
+https://www.heroku.com/
 
 
