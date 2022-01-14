@@ -34,7 +34,7 @@ The technical requirements for this project are as follows:
 * We are going to use the Kanban board (offline) for this project. 
 * We provide you a dataset of real data. Thus, there is some probability of having issues there.
 * Examine the dataset for the possible issues
-* Clean the dataset using SQL
+* Clean it if necessary. Please note, that it could be that missing data treatment and encoding are not required.
 * Analyze your data using statistics, crosstab, groupby, pivots, and charts.
 * Develop the idea of your dashboard:
  - what exactly you want to show?
@@ -50,12 +50,12 @@ The technical requirements for this project are as follows:
 
 The following deliverables should be pushed to your Github repo for this chapter.
 
-* **CSV file with clean data** containing the results of your data wrangling work.
+* **CSV file with clean data** containing the results of your data for the visualization.
 * **Python file** containing all Python code and commands.
-* **MySQL queries file** containing the code for data cleaning.
 * **A ``README.md`` file** containing a detailed explanation of the process including explanation of the dashboard development
 * **A photo of your Kanban board** showing all the tasks that were done
-
+* **link to the deployed version on Heroku** can be added to your readme
+* **Slides** containing all the necessary details and outputs of your project
 
 ## Presentation
 
