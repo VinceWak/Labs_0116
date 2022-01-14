@@ -23,7 +23,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 ## Instructions
 1. Import libraries
 2. Please upload breast cancer dataset from pandas library
-3. 
+
 breast_cancer = datasets.load_breast_cancer(as_frame=True)
 
 breast_cancer_df = pd.concat((breast_cancer["data"], breast_cancer["target"]), axis=1)
