@@ -17,7 +17,7 @@ Here's the sql employees database link : https://drive.google.com/file/d/1C8x5qt
 5. Create a function called ‘emp_info’ that takes for parameters the first and last name of an employee, and returns the salary from the newest contract of that employee.
 Hint: In the BEGIN-END block of this program, you need to declare and use two variables – v_max_from_date that will be of the DATE type, and v_salary, that will be of the DECIMAL (10,2) type.
 6. Create a trigger that checks if the hire date of an employee is higher than the current date. If true, set this date to be the current date. Format the output appropriately (YY-MM-DD)
-7. Drop the ‘i_hire_date’ index.
+7. Create ‘i_hire_date’ and Drop the ‘i_hire_date’ index.
 8. Select all records from the ‘salaries’ table of people whose salary is higher than $89,000 per annum.
 Then, create an index on the ‘salary’ column of that table, and check if it has sped up the search of the same SELECT statement.
 9. Use Case statement and obtain a result set containing the employee number, first name, and last name of all employees with a number higher than 109990. Create a fourth column in the query, indicating whether this employee is also a manager, according to the data provided in the dept_manager table, or a regular employee. 
