@@ -6,6 +6,9 @@
 
 In this lab, we will practice in advanced SQL using routines, triggers and global/local variables
 
+Here's the sql employees database link : https://drive.google.com/file/d/1C8x5qtenCb86j2UimUlqgqyOTwMEHVm5/view?usp=sharing
+
+
 ## Tasks
 1. Upload the sql script to create the employees database.
 2. Create a procedure that will provide the average salary of all employees.
