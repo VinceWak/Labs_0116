@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Machine Learning & AI World
 Machine Learning now is one of the trending topics if you talk aboyt technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
@@ -11,7 +11,7 @@ So you will be asked to read a piece of news and then share it with your partner
 
 ## How we will do it?
 
-So let's start digging a litle bit. Imagine you open your today's AI&ML journal and you see a very interesting new. You read it but that is not enough. You want to understand:
+So let's start digging a litle bit.  You read the news but that is not enough. You want to understand:
 * If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests.
 * Which part of ML or AI is used and how is it related to ML or AI.
 * What did they do to take the data.
@@ -23,7 +23,7 @@ So let's start digging a litle bit. Imagine you open your today's AI&ML journal 
 
 So you need to look for more information. Maybe the paper the scientists published, other articles, some information about the techniques, ...
 
-Let's start! You will be assigned to an article and a day when you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
+Let's start! You will be assigned to an article and a day when you will have 3 minutes to share your research with your colleagues and then 3 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
 
 ## News 
 1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
@@ -41,3 +41,5 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [The way we walk](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+16. [Optimizing facilities with IoT] (https://www.livemint.com/AI/LDVHtYp6YR6gE1F3qY6rWM/Optimizing-facilities-and-sustainability-management-with-IoT.html/)
+17. |How robots learn to hike] (https://techxplore.com/news/2022-01-robots-hike.html)
