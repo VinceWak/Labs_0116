@@ -1,8 +1,8 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Data Cleaning Bonus Challenge
 The objectives of this lab are:
-* Know the Iris Dataset (you will use it tomorrow)
+* Know the Iris Dataset 
 * Review cleaning concepts
 
 ## Introduction
