@@ -12,26 +12,6 @@ Before working on today's main lab, we'd like you to review some Pandas function
 
 Then open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
 
-Let's work with data about bank marketing.  You can find the dataset and description in the data folder
-Please use RFE, RFECV and SelectFomModel  for selecting the features from your dataset.
-
-Step 1. Check your data. Clean and encode them if necessary
-
-Step 2. List your features
-
-Step 3. Apply the RandomForestClassifier and LogisticRegression model with default parameters to your data 
-What is the accuracy for your models?
-
-Step 4. Select features using SelectFromModel method. Explain, how you define the optimal number of features
-
-Step 5. Apply the RandomForestClassifier and LogisticRegression model with default parameters to your data (only selected features). What is the accuracy for your models?
-
-Step 6. Select features using RFE and RFECV methods. Explain, how you define the optimal number of features for each of the cases.
-
-Step 7. Apply the RandomForestClassifier and LogisticRegression model with default parameters to your data (you will have 4 models, taking into account two sets of features that you got). What is the accuracy for your models?
-
-Step 8. Please make the conclusion about the utility of the feature selection
-
 ## Deliverables
 
 - `Pandas-concat-merge-join.ipynb` with your responses.
