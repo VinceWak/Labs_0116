@@ -24,6 +24,7 @@ Must-have in EDA:
 - The most popular genre per country
 
 2. As soon as your dataset is ready, please start the research about your models. Please note, that each group member should research at least 1 model.
+
 Group 1:
 - RidgeClassifier
 - SVC
