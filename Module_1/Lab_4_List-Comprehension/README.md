@@ -12,6 +12,9 @@ In this lab, you will practice constructing list comprehensions and using them t
 
 Open the `main.ipynb` file in the `Lab_4 List Comprehension` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
 
+## Data Link
+https://drive.google.com/file/d/1Lend1iKg9cQlcBPoVq6cydcnfefzW_5H/view?usp=sharing
+
 ## Deliverables
 
 - `main.ipynb` with your responses to each of the exercises.
