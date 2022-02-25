@@ -47,7 +47,7 @@ The **mandatory** requirements that this project needs to satisfy are:
 The **mandatory** deliverables that you must turn in are:
 * Game's alghoritm (flowchart or a step-by-step plan)
 * Link to the repository you used while building your project. The repository must include all the files you used to build your game. Remember to commit often!
-* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
+* Link to Jira or picture of your Kanban Board. Include the link or picture in the README file.
 
 The **deadline** to turn in the deliverables is right before the project presentations. 
 
