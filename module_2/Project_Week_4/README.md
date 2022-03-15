@@ -40,4 +40,6 @@ The charts should reflect the given dataset and be, at least, potentially useful
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+
+
 PLEASE NOTE: YOU NEED TO SHARE THE LINK TO THE GITHUB REPO WITH THE DELIVERABLES TILL 8.30 AM ON MONDAY!
