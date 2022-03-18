@@ -19,12 +19,12 @@ This project consists of two parts: Data cleaning & Exploratory data analysis. Y
 
 
 After these 2 parts are finished, you need to create 8 charts using Matplotlib and 8 charts using Seaborn. 
-Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts. 
-It would be nice to organize the charts as a subplot.
-The charts should have titles, labels, grids and other elements  that allows to read the information properly.
-The charts should have proper dimentions and scales.
-The charts should have reasonable color shcheme.
-The charts should reflect the given dataset and be, at least, potentially useful in terms of descriptive analytics.
+- Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts. 
+- It would be nice to organize the charts as a subplot.
+- The charts should have titles, labels, grids and other elements  that allows to read the information properly.
+- The charts should have proper dimentions and scales.
+- The charts should have reasonable color shcheme.
+- The charts should reflect the given dataset and be, at least, potentially useful in terms of descriptive analytics.
 
 
 ## Expectations
