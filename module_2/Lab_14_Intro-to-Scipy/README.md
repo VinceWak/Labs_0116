@@ -6,6 +6,9 @@
 
 In this lab we will become more acquainted with the SciPy package and learn how to perform statistical tests and other calculations.
 
+## DataSet
+https://drive.google.com/file/d/1qhAElQZyGN0YLQKUsJNWVHI3mYVZXlMQ/view?usp=sharing
+
 ## Getting Started
 
 Open the `main.ipynb` file. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to use the SciPy package.
