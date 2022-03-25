@@ -17,7 +17,6 @@
 
 This project aims to recap EDA and to learn how to create dashboards and, actually, applications, suitable at least for piloting new ideas or products.
 Your data is here: https://drive.google.com/drive/u/4/folders/1Dwaa32bNiNe0f67o27bJXw-08nh2HsiN
-The placeholder for your Kanban board is indicated at the wall by number of your group
 
 
 ## Project Goal
@@ -33,7 +32,8 @@ The goals of this project is to apply the data preparation knowledge and to trai
 
 The technical requirements for this project are as follows:
 
-* We are going to use the Kanban board (offline) for this project. 
+* We are going to use the Kanban board for this project. 
+* Please mention definition of done for all the tasks
 * We provide you a dataset of real data. Thus, there is some probability of having issues there.
 * Examine the dataset for the possible issues
 * Clean it if necessary. Please note, that it could be that missing data treatment and encoding are not required.
@@ -55,7 +55,6 @@ The following deliverables should be pushed to your Github repo for this chapter
 * **CSV file with clean data** containing the results of your data for the visualization.
 * **Python file** containing all Python code and commands.
 * **A ``README.md`` file** containing a detailed explanation of the process including explanation of the dashboard development
-* **A photo of your Kanban board** showing all the tasks that were done
 * **link to the deployed version on Heroku** can be added to your readme
 * **Slides** containing all the necessary details and outputs of your project
 
