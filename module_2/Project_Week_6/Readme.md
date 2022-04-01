@@ -30,7 +30,7 @@ The dashboard should reflect the descriptive and predictive analysis of data and
 ## Requirements
 
 
-* We are going to use Trello for the project management. This time you will need to indicate there not only the names of the tasks but tasks description also. 
+* We are going to use offline Kanban board for the project management. 
 * The domain is related to the crossborder payments, please read the recommended sourses to get knowledge about the subject.
 * Examine the dataset for the possible issues
 * Develop the system of Key Performance Indicators (or the system of widgets that should be shown). Please keep in mind the must-have answers:
@@ -47,7 +47,7 @@ The dashboard should reflect the descriptive and predictive analysis of data and
  - which widgets represent the most powerful insights?
 * Your dashboard should give the possibility to filter the data
 * Please note, that you need to have at least 12 widgets that describe your data.
-* Please note, you have at least 3 widgets that should reflect forecasted values.
+* Please note, you have at least 2 widgets that should reflect forecasted values.
 * Describe the idea of the dashboard and each widget (what you want to show, why the particular chart is chosen), calculations in the readme file.
 * After your dashboard is ready, please, create a presentation.
 
@@ -60,3 +60,7 @@ Please check the website https://paylocator.com/ for having mentioned detailes.
 ## Necessary Deliverables
 
 The following deliverables should be pushed to your Github repo for this chapter.
+1. code
+2. Tableau dashboard
+3. final dataset
+4. readme with widgets explanation
