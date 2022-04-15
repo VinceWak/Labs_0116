@@ -11,17 +11,17 @@ We will use Machine Learning to create this recommendation algorithm.
 
 
 Take the following dataset: [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
-Group1: April
-Group2: May
-Group3: June
-Group4: July
-Group5: August
-Group6: September
+- Group1: April
+- Group2: May
+- Group3: June
+- Group4: July
+- Group5: August
 
 1. Try to see the number of optimal clusters
 2. Find these clusters on a map
 3. Now separate these clusters according to the time of day
 4. Look at the difference between KMeans and DBSCAN
+5. Check your model on september data
 
 
 
