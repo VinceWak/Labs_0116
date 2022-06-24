@@ -8,6 +8,9 @@
 
 The goal of this project is to practise in supervised learning using provided data. We need to create the model for the prediction/classification. 
 Each group will need to research and implement the defined supervised machine learning methods.
+About data: 
+ the file contains various parameters/features based on which a particular asteroid that is already classified as nearest earth object may or may not be hazardous.
+ 
 
 ## Getting Started
 
