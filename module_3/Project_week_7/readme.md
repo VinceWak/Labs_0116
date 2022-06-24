@@ -6,76 +6,60 @@
 
 ## Introduction
 
-The goal of this project is to practise in supervised learning using Netflix data. We need to create the model for the rating prediction. 
+The goal of this project is to practise in supervised learning using provided data. We need to create the model for the prediction/classification. 
 Each group will need to research and implement the defined supervised machine learning methods.
 
 ## Getting Started
 
-The dataset represents the information about Netflix movies and their ratings. Please note, the newest movies were deleted to avoid non-complete information about users votes.
-We suppose that the rating depends on the number of votes and the movie's characteristics.
-
 1. Please perform EDA and data cleaning.
 Check this link https://stackoverflow.com/questions/29605352/pandas-how-to-convert-a-cell-with-multiple-values-to-multiple-rows for some helpful info.
 
-Must-have in EDA:
-- Number of movies per year
-- Movies per country
-- The most popular genre per year
-- The most popular genre per country
+2. Please conduct EDA and descriptive analytics
 
-2. As soon as your dataset is ready, please start the research about your models. Please note, that each group member should research at least 1 model.
+3. As soon as your dataset is ready, please start the research about your models. Please note, that each group member should research at least 1 model.
 
 Group 1:
 - RidgeClassifier
 - SVC
 - CategoricalNB
 - ExtraTreesClassifier
-
+- Gradient Tree Boosting
+- Linear Discriminant Analysis
+- LinearSVC
+- KNeighborsClassifier
 
 Group 2:
 - Logistic regression
 - NuSVC
 - BernoulliNB 
 - AdaBoostClassifier
-
-Group 3:
 - PassiveAggressiveClassifier
 - SGDClassifier
 - ComplementNB
 - RandomForestClassifier
 
-Group 4;
-- Linear Discriminant Analysis
+Group 3:
 - GaussianProcessClassifier
 - BaggingClassifier
-- Gradient Tree Boosting
-
-
-Group 5:
 - Quadratic Discriminant Analysis
 - GaussianNB
 - DecisionTreeClassifier
 - VotingClassifier
-
-Group 6:
-- LinearSVC
-- KNeighborsClassifier
 - MultinomialNB
 - HistGradientBoostingClassifier 
 
-3. Implement your models on your data
+4. Feature selection (if needed)
 
-4. Do not forget about Hyperparameters tuning, feature selection (if needed)
+5. Implement your models on your data
 
-5. Compare the results using metrics:
+6. Do not forget about Hyperparameters tuning
+
+7. Compare the results using metrics:
 - accuracy
 - recall
 - precision
 - ROC_AUC score
 - plot ROC_AUC curve
-
-
-
 
 ## Expectations
 
@@ -84,7 +68,6 @@ Group 6:
 - Clear board in Trello with logged time for each task
 - Clear descriprion of each model
 - Models implementation and comparison
-
 
 ## Deliverables
 
