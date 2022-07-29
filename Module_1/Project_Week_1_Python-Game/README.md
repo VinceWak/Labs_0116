@@ -56,7 +56,7 @@ The **deadline** to turn in the deliverables is right before the project present
 | Phase 1 |  
 |:--------:|
 * Choose your game.
-* Plan your project in Trello
+* Plan your project in Jira
 * Fork the repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-1-Build-Your-Own-Game/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date. 
 * Create flowchart and pceudocode
 * Once you finish, start coding!
