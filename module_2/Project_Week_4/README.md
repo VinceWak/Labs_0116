@@ -16,7 +16,7 @@
 ## Introduction
 
 This project aims to recap EDA and to learn how to create dashboards and, actually, applications, suitable at least for piloting new ideas or products.
-Your data is here: https://drive.google.com/drive/u/4/folders/1Dwaa32bNiNe0f67o27bJXw-08nh2HsiN
+Your data is here: https://drive.google.com/drive/folders/1Dwaa32bNiNe0f67o27bJXw-08nh2HsiN
 
 
 ## Project Goal
@@ -57,7 +57,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 ## Presentation
 
-The presentation time limit is **5 minutes** (I begin to think that this is impossible, but ...)! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
+The presentation time limit is **5 minutes** (I begin to think that this is impossible, but ...)! You will have **10 minutes** to present your project to the class and then **5 minutes** for Q&A.
 
 The slides of your presentation must include the content listed below:
 
