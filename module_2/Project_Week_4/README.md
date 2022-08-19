@@ -1,49 +1,86 @@
-
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Project | Module 2
+# Project | Project 5: Data visualization and reporting in Streamlit
+
+
+
+## Content
+- [Introduction](#introduction)
+- [Project Goal](#project-goal)
+- [Technical Requirements](#technical-requirements)
+- [Necessary Deliverables](#necessary-deliverables)
+- [Presentation](#presentation)
+- [Suggested Ways to Get Started](#suggested-ways-to-get-started)
 
 
 ## Introduction
 
-The goal of this project is to apply the  concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
+This project aims to recap EDA and to learn how to create dashboards and, actually, applications, suitable at least for piloting new ideas or products.
+Your data is here: https://drive.google.com/drive/u/4/folders/1Dwaa32bNiNe0f67o27bJXw-08nh2HsiN
 
 
-## Plan
+## Project Goal
+The goals of this project is to apply the data preparation knowledge and to train more in  Python, SQL and Streamlit.
 
- - Explain the use case
- - Collect data. Explain why you choose this data, from these data sources
- - Clean data and execute exploratory data analysis (+vizualisation)
-- Choose the database type (compare several types and explain why)
-- Create an entity-relationship diagram (at least 4 entities)
-- Create a database (database, tables)
-- Add data to the database
-- Create 5 scripts showing the insights
-- Prepare the 10 pages report
-- Prepare presentation
+- Plan your work
+- Manage your git repository.
+- Build your code from scratch.
+- Put into practice the basic data processing concepts learned during the week.
+- Get used to public presentations.
+
+## Technical Requirements
+
+The technical requirements for this project are as follows:
+
+* We are going to use the Kanban board for this project. 
+* We provide you a dataset of real data. Thus, there is some probability of having issues there.
+* Examine the dataset for the possible issues
+* Clean it if necessary. Please note, that it could be that missing data treatment and encoding are not required.
+* Analyze your data using statistics, crosstab, groupby, pivots, and charts.
+* Develop the idea for your charts:
+ - what exactly you want to show?
+ - what should be the layout?
+ - which chart represent the most powerful insights?
+ - is there a color scheme that cvorrespond with your data and your task?
+* Please note,  you need to create 12 charts using Matplotlib and 12 charts using Seaborn. Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts..
+* After your dashboard is ready, please, create a presentation 
+
+## Necessary Deliverables
+
+The following deliverables should be pushed to your Github repo for this chapter.
+
+* **CSV file with clean data** containing the results of your data for the visualization.
+* **Python file** containing all Python code and commands.
+* **A ``README.md`` file** containing a detailed explanation of the process including explanation of the dashboard development
+* **link to the Github repo with project (should be sent before 12 PM on Monday)
+* **Slides** containing all the necessary details and outputs of your project
+
+## Presentation
+
+The presentation time limit is **5 minutes** (I begin to think that this is impossible, but ...)! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
+
+The slides of your presentation must include the content listed below:
+
+- Title of the project + Student name
+- Description of your dataset
+- Challenges
+- Process (don't forget to explain your decisions)
+- Learnings
+- Improvements
+- Comparison of the initial and final datasets
+- Highlights
 
 
-## Expectations
 
-- Write clean, well-commented code
-- Fully explain your responses where necessary
-- Refer to the lecture notes if you have questions
+## Suggested Ways to Get Started
 
-
-## Deliverables
-
-Each student should upload all the project materials to Github.
-You should deliver:
-- Planning of your project in Trello/Jira,
-- Code in Python for data collection and cleaning,
-- ER model,
-- List of data sources and metadata,
-- Database script,
- - Report (10 pages)
- - Slides.
+- **Examine the data and come up with a deliverable**
+- **Break the project down into different steps** 
+- **Use the tools in your tool kit** 
+- **Work through the lessons in class** 
+- **Commit early, commit often**
 
 
 
-## Submission
 
-The link to the Github repository and the report in pdf format should be sent on Friday, 03/06/2022til 10 PM.
+
