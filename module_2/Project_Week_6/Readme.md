@@ -57,4 +57,6 @@ The following deliverables should be pushed to your Github repo for this chapter
 3. final dataset (clean one)
 4. readme with widgets explanation
 
-Note: no need of slides as you can use story instead
+Note: no need of slides as you can use story instead.
+
+Data: https://drive.google.com/drive/u/2/folders/1k5eP_8YuJDbnQ72uX37n53Oq_22NnY9G
