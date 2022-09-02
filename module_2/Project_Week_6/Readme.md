@@ -15,14 +15,14 @@
 
 ## Introduction
 
-This project aims to practice in descriptive and prescriptive statistics  and dashboards creation with Tableau.
+This project aims to practice in descriptive and prescriptive statistics,  and dashboards creation with Tableau.
 
 
 
 
 ## Project Goal
-The goals of this project is to develop the dashboard in Tableau. 
-The dashboard should reflect the descriptive and predictive analysis of data and explain the state of the payments.
+The goals of this project is to develop the dashboard in Tableau that represents main insights (KPIs).
+THe dashboard should reflect the domain and be useful for the decisionb-making.
 
 
 
@@ -30,37 +30,31 @@ The dashboard should reflect the descriptive and predictive analysis of data and
 ## Requirements
 
 
-* We are going to use offline Kanban board for the project management. 
-* The domain is related to the crossborder payments, please read the recommended sourses to get knowledge about the subject.
+* We are going to use Kanban board for the project management. 
+* Pleace, plan your project first.
 * Examine the dataset for the possible issues
-* Develop the system of Key Performance Indicators (or the system of widgets that should be shown). Please keep in mind the must-have answers:
-- Average time for transaction
-- Status of payment
-- Total charges per period
-- Payment status forecast
-- Issues in correspondence chain
-- Probability of delay
-- Troubles forecast
+* Develop the system of Key Performance Indicators (or the system of widgets that should be shown). Please keep in mind:
+- you need to have at least 12 widgets that describe your data,
+- you have at least 2 widgets that should reflect forecasted value,
+- dashboard's style should reflect the domain.
 * Develop the idea of your dashboard:
  - what exactly you want to show?
  - what should be the layout?
  - which widgets represent the most powerful insights?
 * Your dashboard should give the possibility to filter the data
-* Please note, that you need to have at least 12 widgets that describe your data.
-* Please note, you have at least 2 widgets that should reflect forecasted values.
 * Describe the idea of the dashboard and each widget (what you want to show, why the particular chart is chosen), calculations in the readme file.
 * After your dashboard is ready, please, create a presentation.
 
 Non-functional requirements:
 1. Use the corporate colors of the product
 2. Add logo of the product
-3. Add the SWIFT compatible label
-Please check the website https://paylocator.com/ for having mentioned detailes.
 
 ## Necessary Deliverables
 
 The following deliverables should be pushed to your Github repo for this chapter.
 1. code
 2. Tableau dashboard
-3. final dataset
+3. final dataset (clean one)
 4. readme with widgets explanation
+
+Note: no need of slides as you can use story instead
