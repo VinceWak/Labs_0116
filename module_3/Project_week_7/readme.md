@@ -60,8 +60,9 @@ Group 3:
 5. Implement your models on your data
 
 6. Do not forget about Hyperparameters tuning
+7. Implement AutoML (TPOT)
 
-7. Compare the results using metrics:
+8. Compare the results using metrics:
 - accuracy
 - recall
 - precision
