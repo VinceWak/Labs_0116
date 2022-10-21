@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Creating Database in MYSQL! WOW
+# Creating a Composite Indicator (data collection and data storage)! WOW
 
 ## Content
 - [Project Description](#project-description)
