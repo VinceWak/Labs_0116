@@ -4,7 +4,7 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Database](#Create Database)
+- [Database](#Create-Database)
 - [Project Goals](#project-goals)
 - [Requirements & Deliverables](#requirements-&-deliverables)
 - [Schedule](#schedule)
@@ -20,6 +20,10 @@ Dive deeper into the database creation and panel data.
 The goal of this project is to create the database that reflects one of the important socio-economic subject, develop the composite indicator that allows to compare the countries/regions/cities/other objects and implement queries that return useful insights about your data.
 Subjects:
 - energy, 
+- conflicts,
+- product scores, 
+- emlployability, 
+- performance of employees,
 - healthcare, 
 - sustainable development, 
 - poverty, 
@@ -60,7 +64,7 @@ You should deliver:
 
 
 ## Presentation
-The presentation time limit is **6 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A. 
+The presentation time limit is **15 minutes**! You will have **12 minutes** to present your project to the class and then **3 minutes** for Q&A. 
 
 The slides of your presentation must include the content listed below and a demo of your game:
 
@@ -80,7 +84,7 @@ ER model: Countries description (Country, Code, Income, Classification), Teacher
 Composite indicator: 
 1. standartization/ normalization of data
 2. Assume that all the components have equal weights
-3. Final indicator=sum of the components.
+3. Final indicator=weighted sum of the components.
 
 
 
