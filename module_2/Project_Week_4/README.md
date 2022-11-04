@@ -32,7 +32,7 @@ The goals of this project is to apply the data preparation knowledge and to trai
 
 The technical requirements for this project are as follows:
 
-* We are going to use the Kanban board for this project. 
+* We are going to use Trello for this project. 
 * We provide you a dataset of real data. Thus, there is some probability of having issues there.
 * Examine the dataset for the possible issues
 * Clean it if necessary. Please note, that it could be that missing data treatment and encoding are not required.
@@ -41,7 +41,7 @@ The technical requirements for this project are as follows:
  - what exactly you want to show?
  - what should be the layout?
  - which chart represent the most powerful insights?
- - is there a color scheme that cvorrespond with your data and your task?
+ - is there a color scheme that correspond with your data and your task?
 * Please note,  you need to create 12 charts using Matplotlib and 12 charts using Seaborn. Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts..
 * After your dashboard is ready, please, create a presentation 
 
