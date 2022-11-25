@@ -31,29 +31,34 @@ Group 1:
 - CategoricalNB
 - ExtraTreesClassifier
 - Gradient Tree Boosting
-- Linear Discriminant Analysis
-- LinearSVC
-- KNeighborsClassifier
 
 Group 2:
 - Logistic regression
 - NuSVC
 - BernoulliNB 
 - AdaBoostClassifier
+- Linear Discriminant Analysis
+
+Group 3:
+- LinearSVC
+- KNeighborsClassifier
 - PassiveAggressiveClassifier
 - SGDClassifier
 - ComplementNB
-- RandomForestClassifier
 
-Group 3:
-- GaussianProcessClassifier
-- BaggingClassifier
-- Quadratic Discriminant Analysis
+Group 4:
 - GaussianNB
 - DecisionTreeClassifier
 - VotingClassifier
-- MultinomialNB
+- Callibration
 - HistGradientBoostingClassifier 
+
+Group 5:
+- GaussianProcessClassifier
+- BaggingClassifier
+- MultinomialNB
+- Quadratic Discriminant Analysis
+- Stacking
 
 4. Feature selection (if needed)
 
