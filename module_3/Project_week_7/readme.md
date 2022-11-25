@@ -24,6 +24,8 @@ Group 1:
 - CategoricalNB
 - ExtraTreesClassifier
 - Gradient Tree Boosting
+- GaussianNB
+- DecisionTreeClassifier
 
 Group 2:
 - Logistic regression
@@ -40,8 +42,6 @@ Group 3:
 - ComplementNB
 
 Group 4:
-- GaussianNB
-- DecisionTreeClassifier
 - VotingClassifier
 - Callibration
 - HistGradientBoostingClassifier 
