@@ -2,14 +2,23 @@ Context
 The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
 
 Y - Bankrupt?: Class label
+
 X1 - ROA(C) before interest and depreciation before interest: Return On Total Assets(C)
+
 X2 - ROA(A) before interest and % after tax: Return On Total Assets(A)
+
 X3 - ROA(B) before interest and depreciation after tax: Return On Total Assets(B)
+
 X4 - Operating Gross Margin: Gross Profit/Net Sales
+
 X5 - Realized Sales Gross Margin: Realized Gross Profit/Net Sales
+
 X6 - Operating Profit Rate: Operating Income/Net Sales
+
 X7 - Pre-tax net Interest Rate: Pre-Tax Income/Net Sales
+
 X8 - After-tax net Interest Rate: Net Income/Net Sales
+
 X9 - Non-industry income and expenditure/revenue: Net Non-operating Income Ratio
 X10 - Continuous interest rate (after tax): Net Income-Exclude Disposal Gain or Loss/Net Sales
 X11 - Operating Expense Rate: Operating Expenses/Net Sales
