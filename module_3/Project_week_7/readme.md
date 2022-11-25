@@ -83,8 +83,8 @@ Group 5:
 
 ## Deliverables
 
-- '1. Bank_loan.csv with clean and encoded data
-- '2. Bank_loan.ipynb' with all code concerning data cleaning and modelling
+- '1. data.csv with clean and encoded data
+- '2. project7.ipynb' with all code concerning data cleaning and modelling
 - '3. Slides/dashboard/notebook with must-have EDA, each model description (how it works, what the parameters are, what exectly you used) and results (for each model and final table with models comparison).
 - '4. Please state the conclusion about usability of each model.
 - '5. Trello board with logged time.
