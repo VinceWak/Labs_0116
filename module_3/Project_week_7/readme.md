@@ -19,7 +19,6 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 ## Getting Started
 
 1. Please perform EDA and data cleaning.
-Check this link https://stackoverflow.com/questions/29605352/pandas-how-to-convert-a-cell-with-multiple-values-to-multiple-rows for some helpful info.
 
 2. Please conduct EDA and descriptive analytics
 
